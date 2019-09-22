@@ -356,7 +356,8 @@ return [
     'Define singleton fields' => 'Küme\'ye ait alan oluşturun',
     'File not found' => 'Dosya bulunamadı!',
     'Uuuups, something went wrong.' => 'Bir şeyler ters gitti !?',
-    'No Collections' => 'Gösterilecek koleksiyon bulunmamaktadır',
+    'No collections' => 'Gösterilecek Koleksiyon Bulunmamaktadır',
+	'No Collections' => 'Gösterilecek Koleksiyon Bulunmamaktadır',
     'Unlock' => 'Kili Aç',
     'Lock' => 'Kilitle',
     'Locked' => 'Kilitli',
@@ -387,7 +388,7 @@ return [
     'Archive extracted!' => 'Dosya başarı ile genişletildi.',
     'No revisions available' => 'Gösterilecek revizyon yok.',
     'Back to entry' => 'İçeriğe geri dön',
-    'Restoring' => 'YÜkleniyor:',
+    'Restoring' => 'Yükleniyor:',
     'Restore finished!' => 'Yedekten yükleme tamamlandı.',
     'Return to backups list' => 'Geri Dön',
     'Actions' => 'Eylemler',
@@ -401,7 +402,7 @@ return [
     'Select' => 'Seç',
     'item(s)' => 'dosya',
     'Focal Point' => 'Odak Noktası',
-    'Uploads' => 'Yüklemeler',
-    'Config' => 'Ayarlar',
-    'Show Configuration' => 'Ayarları Göster'
+	'Custom config file does not exist' => 'Özel ayar dosyası bulunamadı',
+	'Create config file' => 'Ayar dosyası oluştur'
+	'Show Configuration' => 'Ayarları Göster'
 ];
